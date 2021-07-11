@@ -1,0 +1,77 @@
+
+
+.one
+{
+ text-align:center;
+ margin-top:70px;
+}
+
+.container{
+
+	margin-top:30px;
+
+}
+
+.form-control
+{
+	padding:25px;
+	font-size:20px;
+	
+	border: 2px solid #682981 ;
+	
+}
+
+.glyphicon-search
+{
+	font-size:20px;
+}
+
+.btn-default
+{
+	background-color:orange;
+	width:100px;
+	padding:12.5px;
+	border: 2px solid #682981 ;
+}
+
+.testimonials
+{
+    background:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(..//image/medicine2.jpg);
+    background-size: cover;
+    background-position: center;
+    padding-top:30px;
+    padding-bottom:120px;
+    color:white;
+    margin-top:250px;
+    background-attachment: fixed;
+    margin-bottom:150px;
+    
+   
+}
+
+.testimonials .carousel-indicators
+{
+    bottom:-60px;
+    
+    
+}
+
+.carousel-inner img
+{
+    
+  
+    border:2px solid black;
+  
+}
+
+#one
+{
+	background-color:#676875;
+	height:200px;
+
+}
+
+
+
+
+

@@ -1,0 +1,36 @@
+
+
+.well {
+    min-height: 20px;
+    padding: 19px;
+    margin-bottom: 20px;
+    background-color: #6495ED;
+    border: 1px solid #e3e3e3;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+    .well a {
+        text-decoration: none;
+        color: black;
+    }
+
+    .well:hover {
+        min-height: 20px;
+        padding: 19px;
+        margin-bottom: 16px;
+        background-color: #D2691E;
+        border: 1px solid #e3e3e3;
+        border-radius: 4px;
+        -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+        box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+        font-size: 18px;
+    }
+
+    .well a:hover {
+        color: #00008B;
+    }
